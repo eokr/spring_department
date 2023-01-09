@@ -1,0 +1,16 @@
+20222203	이준수	백엔드5팀	L1005
+
+L1001
+[{"employee":{"employeeNumber":20202201,"employeeName":"김이름"},"department":{"department":"백엔드1팀","departmentCode":"L1001"}}]
+
+L1001,L1002
+[{"employee":{"employeeNumber":20202201,"employeeName":"김이름"},"department":{"department":"백엔드1팀","departmentCode":"L1001"}},{"employee":{"employeeNumber":20202202,"employeeName":"김이름"},"department":{"department":"백엔드2팀","departmentCode":"L1002"}}]
+
+L1001,L1002,L1003
+[{"employee":{"employeeNumber":20202201,"employeeName":"김이름"},"department":{"department":"백엔드1팀","departmentCode":"L1001"}},{"employee":{"employeeNumber":20202202,"employeeName":"김이름"},"department":{"department":"백엔드2팀","departmentCode":"L1002"}},{"employee":{"employeeNumber":20202201,"employeeName":"김이름"},"department":{"department":"백엔드3팀","departmentCode":"L1003"}}]
+
+L1001,L1002,L1003,L1004
+[{"employee":{"employeeNumber":20202201,"employeeName":"김이름"},"department":{"department":"백엔드1팀","departmentCode":"L1001"}},{"employee":{"employeeNumber":20202202,"employeeName":"김이름"},"department":{"department":"백엔드2팀","departmentCode":"L1002"}},{"employee":{"employeeNumber":20202201,"employeeName":"김이름"},"department":{"department":"백엔드3팀","departmentCode":"L1003"}},{"employee":{"employeeNumber":20202201,"employeeName":"김이름"},"department":{"department":"백엔드4팀","departmentCode":"L1004"}}]
+
+L1001,L1002,L1003,L1004,L1005
+[{"employee":{"employeeNumber":20202201,"employeeName":"김이름"},"department":{"department":"백엔드1팀","departmentCode":"L1001"}},{"employee":{"employeeNumber":20202202,"employeeName":"김이름"},"department":{"department":"백엔드2팀","departmentCode":"L1002"}},{"employee":{"employeeNumber":20202201,"employeeName":"김이름"},"department":{"department":"백엔드3팀","departmentCode":"L1003"}},{"employee":{"employeeNumber":20202201,"employeeName":"김이름"},"department":{"department":"백엔드4팀","departmentCode":"L1004"}},{"employee":{"employeeNumber":20202202,"employeeName":"김이름"},"department":{"department":"백엔드5팀","departmentCode":"L1005"}}]
